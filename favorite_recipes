@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>My favorite recipes</title>
+    
+    </style>
+  </head>
+  <body>
+    <header style="background-color: gray" >
+    <h1 align="center" style="color:white" >My favorite recipes</h1>
+    </header>
+    <article>
+    <h2><i>Tartar salmon</i></h2>
+    <h3>Ingridients:</h3>
+    <ul>
+      <li>400 gr salmon fillets</li>
+      <li>4-5 shallot onions</li>
+      <li>2 tbs white wine vinegar</li>
+      <li>200 gr heavy cream</li>
+      <li> 100 gr sour cream</li>
+      <li> 1 1/2 cup of chopped dill</li>
+      <li>1 lemon for plating</li>
+     </ul>
+    <h3>Method</h3>
+    <ol>
+      <li><strong>Preparing tartar salmon</strong>
+        <br><em>Chop salmon and shallots finely into small cubes. Mix chopped salmon and shallots with 1 cup of finely chopped dill. 
+        Add some pepper and salt.</em></li>
+          
+      <li><strong>Prepare <span lang="fr">creme fraiche</span></strong><br>
+        <em>Mix in another bowl heavy cream, sour cream, white wine vinegar and half cup of chopped dill. Add some salt and pepper
+        </em>  </li>
+       <li><strong>Plating</strong><br>
+         <em>Apply 3-4 table spoons of <span lang="fr">creme fraiche </span> onto the plate. Put ring (a bit smaller in diameter of applied creme fraiche) in the center of<span lang="fr">creme fraiche </span>and then put tartar salmon inside. Remove the ring. Add splash of lemon juice.</em> </li>
+      <li>Enjoy!</li>
+    </ol>
+      </article>
+  </body>
+</html>
